@@ -1,5 +1,5 @@
 import React from "react";
-import ''
+// import ''
 import CartItem from "./CartItem";
 function App() {
   return (
